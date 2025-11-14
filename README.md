@@ -22,7 +22,7 @@
 
 ![post-training-visualization](/output2.png)    
 - Function for a New Prediction Input
-# Final Model Comparison Summary
+## Final Model Comparison Summary
 
 | Model                   | RMSE       | R² Score    |
 |------------------------|------------|-------------|
