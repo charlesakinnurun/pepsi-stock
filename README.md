@@ -2,6 +2,14 @@
 ![Pepsi](/pepsi.jpg)
 
 ## Procedures
+- Import Libraries
+    - scikit-learn
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+    - finance
+    - warnings
 - Data Preparation and Acquistion
     - Data acquired from the yahoo finance api
 - Feature Engineering
