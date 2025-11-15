@@ -8,7 +8,7 @@
     - numpy
     - seaborn
     - matplotlib
-    - finance
+    - yfinance
     - warnings
 - Data Preparation and Acquistion
     - Data acquired from the yahoo finance api
